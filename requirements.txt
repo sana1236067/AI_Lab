@@ -4,7 +4,9 @@ scipy
 scikit-learn
 matplotlib
 jupyter
-nbformat / nbclient / nbconvert
+nbformat
+nbclient
+nbconvert
 pillow
 pytesseract
 pytest
