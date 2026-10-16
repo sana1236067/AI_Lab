@@ -9,6 +9,9 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - route_comparison.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab01/route_comparison.png) |
 | 2026/10/09 | Lab 02 - Informed Search (code) |
 | | [Submission - Assignment 2 (Word)](https://github.com/sana1236067/AI_Lab/blob/main/results/lab02/Assignment2_Week5%20-%20AI_Tuto.docx) |
+| | [Submission - expanded_nodes.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab02/expanded_nodes.png)  |
+| | [Submission - heuristic_check.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab02/heuristic_check.csv)  |
+| | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab02/metrics.csv)  |
 | 2026/10/16 | Lab 03 - Search Engineering (Code) |
 | | [Submission - benchmark.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab03/benchmark.csv) |
 | | [Submission - benchmark_summary.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab03/benchmark_summary.csv) |
