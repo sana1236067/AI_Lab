@@ -5,8 +5,8 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | **Date** | **Lab Tasks** |
 |---|---|
 | 2026/10/02 | Lab 01 - Search Foundations |
-| | Submission - metrics.csv |
-| | Submission - route_comparison.csv |
+| | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab01/metrics.csv) |
+| | [Submission - route_comparison.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab01/route_comparison.png) |
 | 2026/10/09 | Lab 02 - Informed Search (code) |
 | | [Submission - Assignment 2 (Word)](https://github.com/sana1236067/AI_Lab/blob/main/results/lab02/Assignment2_Week5%20-%20AI_Tuto.docx) |
 | 2026/10/16 | Lab 03 - Search Engineering (Code) |
