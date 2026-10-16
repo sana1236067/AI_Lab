@@ -1,2 +1,15 @@
 AI_Tutorial 
 Shanchanaa (24006193) - G3
+
+| **Date**   | **Lab Tasks**                                      |
+|------------|----------------------------------------------------|
+| 2026/10/02 | Lab 01 - Search foundations                        |
+|            | Submission - metrics.csv                            |
+|            | Submission - route_comparison.csv                  |
+| 2026/10/09 | Lab 02 - Informed Search (code)                    |
+|            | Submission - Assignment 2 (PDF)                    |
+| 2026/10/16 | Lab 03 - Search Engineering (Code)                 |
+|            | Lab 03 - Command-line tool (`utils/__main__.py`)   |
+|            | Submission - benchmark.csv                         |
+|            | Submission - benchmark_summary.csv                 |
+|            | Submission - benchmark_expansions.png              |
