@@ -25,8 +25,7 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab04/split.csv)
 | | [Submission - temperature_humidity.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab04/temperature_humidity.png)  |
 | 2026/10/30 | Lab 05 - Robotics  |
-| | [Submission - confusion_matrices_png]
-(https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/confusion_matrices.png)     |
+| | [Submission - confusion_matrices_png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/confusion_matrices.png)     |
 | 2026/11/6  | Lab 06 -  |
 | | [Submission - ]      |
 | 2026/11/13 | Lab 07 -  |
