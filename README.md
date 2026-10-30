@@ -26,6 +26,14 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - temperature_humidity.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab04/temperature_humidity.png)  |
 | 2026/10/30 | Lab 05 - Robotics  |
 | | [Submission - confusion_matrices_png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/confusion_matrices.png)     |
+| | [Submission - feature_scores.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/feature_scores.csv)            |
+| | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/metrics.csv)                       |
+| | [Submission - noise_robustness.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/noise_robustness.csv)   |
+| | [Submission - noise_robustness.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/noise_robustness.png)    |
+| | [Submission - rule_controller.txt](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/rule_controller.txt)     |
+| | [Submission - rule_per_class.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/rule_per_class.csv)       |
+| | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/split.csv)                      |
+| | [Submission - tree_depth_validation.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/tree_depth_validation.csv)   |
 | 2026/11/6  | Lab 06 -  |
 | | [Submission - ]      |
 | 2026/11/13 | Lab 07 -  |
