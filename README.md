@@ -35,7 +35,12 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/split.csv)                      |
 | | [Submission - tree_depth_validation.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/tree_depth_validation.csv)   |
 | 2026/11/6  | Lab 06 -  |
-| | [Submission - ]      |
+| | [Submission - preprocessed_images](https://github.com/sana1236067/AI_Lab/tree/main/results/lab06/preprocessed)           |
+| | [Submission - error_analysis.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/error_analysis.csv) |
+| | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/metrics.csv) |
+| | [Submission - ocr_failures.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/ocr_failures.png) |
+| | [Submission - predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/predictions.csv) |
+| | [Submission - sample_grid.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/sample_grid.png) |
 | 2026/11/13 | Lab 07 -  |
 | | [Submission -  ]     |
 | 2026/11/20 | Lab 08 -  |
