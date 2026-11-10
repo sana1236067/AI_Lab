@@ -41,6 +41,7 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - ocr_failures.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/ocr_failures.png) |
 | | [Submission - predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/predictions.csv) |
 | | [Submission - sample_grid.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/sample_grid.png) |
+| | [Submission - Assignment 3 (pdf)](https://github.com/sana1236067/AI_Lab/tree/main/Lab06_Assignment)      |
 | 2026/11/13 | Lab 07 -  |
 | | [Submission -  ]     |
 | 2026/11/20 | Lab 08 -  |
