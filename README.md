@@ -34,7 +34,7 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - rule_per_class.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/rule_per_class.csv)       |
 | | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/split.csv)                      |
 | | [Submission - tree_depth_validation.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab05/tree_depth_validation.csv)   |
-| 2026/11/6  | Lab 06 -  |
+| 2026/11/6  | Lab 06 - NLP Foundations |
 | | [Submission - preprocessed_images](https://github.com/sana1236067/AI_Lab/tree/main/results/lab06/preprocessed)           |
 | | [Submission - error_analysis.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/error_analysis.csv) |
 | | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/metrics.csv) |
@@ -42,7 +42,14 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/predictions.csv) |
 | | [Submission - sample_grid.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab06/sample_grid.png) |
 | | [Submission - Assignment 3 (pdf)](https://github.com/sana1236067/AI_Lab/tree/main/Lab06_Assignment)      |
-| 2026/11/13 | Lab 07 -  |
-| | [Submission -  ]     |
+| 2026/11/13 | Lab 07 - NLP Sentiment Classification |
+| | [Submission - confusion_matrix.png](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/confusion_matrix.png)     |
+| | [Submission - error_analysis.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/error_analysis.csv)        |
+| | [Submission - metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/metrics.csv)    |
+| | [Submission - per_airline_f1.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/per_airline_f1.csv)    |
+| | [Submission - per_class_metrics.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/per_class_metrics.csv)   |
+| | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/split.csv)   |
+| | [Submission - test_predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/test_predictions.csv)   |
+| | [Submission - validation_result.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/validation_results.csv)   |
 | 2026/11/20 | Lab 08 -  |
 | | [Submission -  ]     |
