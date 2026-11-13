@@ -51,5 +51,6 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/split.csv)   |
 | | [Submission - test_predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/test_predictions.csv)   |
 | | [Submission - validation_result.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/validation_results.csv)   |
+| | [Submission - Assignment 4 (pdf)](https://github.com/sana1236067/AI_Lab/blob/main/Assignment_Reasoning_Semantic_NLP/AI_Assignment_Shanchanaa.pdf)   |
 | 2026/11/20 | Lab 08 -  |
 | | [Submission -  ]     |
