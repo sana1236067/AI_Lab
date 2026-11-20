@@ -52,5 +52,9 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - test_predictions.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/test_predictions.csv)   |
 | | [Submission - validation_result.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab07/validation_results.csv)   |
 | | [Submission - Assignment 4 (pdf)](https://github.com/sana1236067/AI_Lab/blob/main/Assignment_Reasoning_Semantic_NLP/AI_Assignment_Shanchanaa.pdf)   |
-| 2026/11/20 | Lab 08 -  |
-| | [Submission -  ]     |
+| 2026/11/20 | Lab 08 - GA Regression |
+| | [Submission - convergence.png ](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/convergence.png)     |
+| | [Submission - ga_10_runs.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/ga_10_runs.csv)    |
+| | [Submission - ga_sensitivity_pop40.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/ga_sensitivity_pop40.csv)  |
+| | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/split.csv)   |
+| | [Submission - summary.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/summary.csv)   |
