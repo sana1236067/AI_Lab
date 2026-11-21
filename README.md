@@ -58,3 +58,4 @@ Shanchanaa (24006193) - G3 (Friday 10-12)
 | | [Submission - ga_sensitivity_pop40.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/ga_sensitivity_pop40.csv)  |
 | | [Submission - split.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/split.csv)   |
 | | [Submission - summary.csv](https://github.com/sana1236067/AI_Lab/blob/main/results/lab08/summary.csv)   |
+| | [Submission - Assignment 5 (pdf)](https://github.com/sana1236067/AI_Lab/tree/main/GA%20Assignment) |
